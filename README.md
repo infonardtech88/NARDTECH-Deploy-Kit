@@ -3,7 +3,7 @@
 Script by **Fabio Narducci** — [nardtech.altervista.org](https://nardtech.altervista.org) — TikTok [@nardtech88](https://www.tiktok.com/@nardtech88)
 
 ## Come si usa
-Doppio click su `avvia-installazione.cmd`. Lo script:
+Doppio click su `NARDTECH Deploy Kit.cmd`. Lo script:
 1. Si auto-eleva a privilegi Amministratore (comparirà il prompt UAC di Windows — unico click richiesto, non evitabile via script).
 2. Mostra il banner NARDTECH.
 3. Verifica connessione Internet e disponibilità di `winget`.
